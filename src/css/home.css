@@ -1,6 +1,7 @@
 #home {
   width: 100%;
   padding: 2rem 0;
+  background-color: #f9f9f9;
 }
 
 #home > figure {
@@ -21,7 +22,7 @@
 
 .home__image-component::after {
   content: '';
-  background-color: #ccf4e6;
+  background-color: #f4d7cc;
   border-radius: 8px;
 
   width: 100%;
