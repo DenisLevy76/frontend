@@ -1,0 +1,10 @@
+.separator {
+  width: 100%;
+  height: 2px;
+
+  background: linear-gradient(
+    270deg,
+    #e9b198 0%,
+    rgba(244, 209, 204, 0.34) 100%
+  );
+}
