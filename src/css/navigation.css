@@ -1,0 +1,46 @@
+.menu li {
+    text-decoration: none;
+    font-size: 1.5rem;
+}
+a{
+    text-decoration: none;
+    font-size: 1.5rem;
+    color: white;
+    padding: 15px;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    background-color: rgba(0, 0, 0, 0.795);
+    color: white;
+    padding-bottom: 16px;
+
+}
+
+.menu{
+    display: flex;
+    
+}
+.menu li {
+    margin-right: 10px;
+}
+.menu li a {
+    display: block;
+    padding: 10px;
+}
+
+.menu li a:hover{
+    background-color: rgba(255, 166, 0, 0.452);
+    transition: 0.7s;
+    font-size: 2.5rem;
+}
+.compasso {
+    font-size: 2rem;
+}
+.compasso:hover{
+    color: orange;
+    font-size: 3rem;
+    transition:0.7s ;
+}
